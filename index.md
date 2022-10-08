@@ -20,3 +20,7 @@ $ java HelloWorld
 Hello World!
 $
 ```
+### Homework to-do
+- [ ] HW6
+- [ ] P5: Mazda
+- [ ] WebWorK 6
